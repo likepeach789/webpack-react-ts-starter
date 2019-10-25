@@ -1,0 +1,10 @@
+@import "./variable.scss";
+@import-normalize;
+@import-sanitize;
+// @import '~sanitize.css';
+// @import '~sanitize.css/forms.css';
+// @import '~sanitize.css/typography.css';
+
+body {
+    font-size: 16px;
+}
